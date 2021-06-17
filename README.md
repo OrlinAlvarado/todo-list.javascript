@@ -1,6 +1,6 @@
-# Webpack Starter
+# Todo List 
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Aplicacion para el manejo de TODOS del curso de Javascript Moderno de Fernando herrera
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
